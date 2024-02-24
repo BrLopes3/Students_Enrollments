@@ -1,4 +1,4 @@
-# Students Enrollments application 
+# Students Enrollment application 
 Final project of Multitiers Programming using C# with a windows form application to manage the enrollment of a group of students in a set of courses available, 
 using SQL Server Management Studio in the backend.
 
